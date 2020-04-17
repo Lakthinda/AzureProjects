@@ -1,0 +1,14 @@
+C:\Projects\AzureTraining\QueueApp\bin\Debug\netcoreapp3.1\QueueApp.exe
+C:\Projects\AzureTraining\QueueApp\bin\Debug\netcoreapp3.1\QueueApp.deps.json
+C:\Projects\AzureTraining\QueueApp\bin\Debug\netcoreapp3.1\QueueApp.runtimeconfig.json
+C:\Projects\AzureTraining\QueueApp\bin\Debug\netcoreapp3.1\QueueApp.runtimeconfig.dev.json
+C:\Projects\AzureTraining\QueueApp\bin\Debug\netcoreapp3.1\QueueApp.dll
+C:\Projects\AzureTraining\QueueApp\bin\Debug\netcoreapp3.1\QueueApp.pdb
+C:\Projects\AzureTraining\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.csprojAssemblyReference.cache
+C:\Projects\AzureTraining\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.AssemblyInfoInputs.cache
+C:\Projects\AzureTraining\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.AssemblyInfo.cs
+C:\Projects\AzureTraining\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.dll
+C:\Projects\AzureTraining\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.pdb
+C:\Projects\AzureTraining\QueueApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\AzureTraining\QueueApp\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Projects\AzureTraining\QueueApp\obj\Debug\netcoreapp3.1\QueueApp.csproj.CopyComplete
