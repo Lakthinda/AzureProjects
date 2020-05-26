@@ -24,8 +24,9 @@ namespace PhotoSharingApp
             }
 
             var blobClient = storageAccount.CreateCloudBlobClient();
-            var blobContainer = blobClient.GetContainerReference("photoblobs");
+            var blobContainer = blobClient.GetContainerReference("lrblob");
             bool created = await blobContainer.CreateIfNotExistsAsync();
+            
 
             Console.WriteLine(created ? "Created the Blob container" : "Blob container already exists.");
 
